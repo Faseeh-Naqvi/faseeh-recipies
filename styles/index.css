@@ -1,0 +1,55 @@
+
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+}
+
+h2{
+    font-size: 75px;
+}
+.list button{
+ height: 150px;
+ width: 400px;
+ font-size: 35px;
+}
+
+button:hover{
+background-color: rgb(0, 190, 0);
+font-size: 45px;
+}
+#footer {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: green;
+   color: white;
+   text-align: center;
+}
+#footer p,a{
+    background-color: green;
+}
+
+#smile{
+    color: rgb(255, 0, 0);
+    background-color: green;
+}
+#smile:hover{
+    color: yellow;
+    font-size: 20px;
+}
+
+#footer button{
+    background-color: rgb(2, 158, 2);
+}
+#footer button:hover{
+    background-color: blueviolet;
+    font-size: 125%;
+   
+}
+*{
+    background-color: lightgreen;
+}
