@@ -1,11 +1,0 @@
---2023-08-11 01:18:26--  https://media4.giphy.com/media/102xzU5V7M1YOs/200w.gif?cid=82a1493bd499bmtwoltc80eulpgc9j7jgrr26x9wacrjkq88
-Resolving media4.giphy.com (media4.giphy.com)... 151.101.138.2
-Connecting to media4.giphy.com (media4.giphy.com)|151.101.138.2|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 6906255 (6.6M) [image/gif]
-Saving to: ‘200w.gif?cid=82a1493bd499bmtwoltc80eulpgc9j7jgrr26x9wacrjkq88’
-
-         200w.gif   0%[              ]       0  --.-KB/s                       200w.gif?  17%[=>            ]   1.13M  5.65MB/s                      200w.gif?c  44%[=====>        ]   2.95M  7.35MB/s                     200w.gif?ci  76%[=========>    ]   5.04M  8.38MB/s               200w.gif?cid=82a1 100%[=============>]   6.59M  8.86MB/s    in 0.7s    
-
-2023-08-11 01:18:26 (8.86 MB/s) - ‘200w.gif?cid=82a1493bd499bmtwoltc80eulpgc9j7jgrr26x9wacrjkq88’ saved [6906255/6906255]
-
