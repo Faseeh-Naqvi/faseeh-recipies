@@ -7,8 +7,36 @@ img{
 h1{
     text-align: center;
 }
-#home a,button{
+.home a,button{
     text-align: left;
     background-color: green;
     color: white;
+    font-size: 25px;
     }
+
+    button:hover span{
+      display: none;
+    
+    }
+     button:hover::before{
+      content:"<Go Back Home";
+    }
+
+    .top:hover span{
+      display: none;
+    
+    }
+     .top:hover::before{
+      content:"^Back to top^";
+    }
+  button:hover{
+    
+    background-color: rgb(0, 185, 0);
+  }
+
+#title{
+    font-size: 70px;
+ }
+
+
+
